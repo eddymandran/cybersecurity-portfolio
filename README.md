@@ -43,32 +43,40 @@ cybersecurity-portfolio/
 │
 ├── reports/                     ← Simulated pentest reports
 │
-└── certifications/              ← Badges & certifications
+└── certificates/                ← Completion certificates
 ```
 
 ---
 
 ### 📝 Write-ups
 
-| Platform | Room / Challenge | Difficulty | Status |
-|---|---|---|---|
-| TryHackMe | *Coming soon...* | — | 🔄 In progress |
+| Platform | Room / Challenge | Difficulty | Category | Status |
+|---|---|---|---|---|
+| TryHackMe | [The Greenholt Phish](./writeups/tryhackme/the-greenholt-phish.md) | 🟢 Easy | Phishing / Email Analysis / SOC | ✅ Completed |
 
 ---
 
-### 📜 Certifications & Badges
+### 📜 Certificates
 
-| Certification | Platform | Status |
+| Certificate | Organization | Link |
 |---|---|---|
-| *Coming soon...* | — | 🔄 In progress |
+| Security Engineer *(Learning Path)* | TryHackMe | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DBUT9JSL7U.pdf) |
+| Cyber Security 101 *(Learning Path)* | TryHackMe | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GIWBMPMAUW.pdf) |
+| Pre Security *(Learning Path)* | TryHackMe | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZVNIO4VQMS.pdf) |
+| Advent of Cyber 2025 *(Event)* | TryHackMe | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HPA4FS3AKH.pdf) |
+| Google Cybersecurity Professional Certificate V2 | Google / Coursera | [🔗 Credly](https://www.credly.com/badges/f7704b63-6292-449a-a4e8-c5cd302c03cb/public_url) |
+| Introduction to Cybersecurity | Cisco / Netacad | [🔗 Credly](https://www.credly.com/badges/2176fc38-d134-48f5-90cc-3b3cd441d5c9/public_url) |
+| Networking Basics | Cisco / Netacad | [🔗 Credly](https://www.credly.com/badges/20a20ac9-ce04-468e-9d24-8063e097568b/public_url) |
+
+> See full details in the [certificates/](./certificates/) folder.
 
 ---
 
 ### 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/eddymandran/)
-- [GitHub](https://github.com/eddymandran)
-- [dev.eddy.mandran@gmail.com](mailto:dev.eddy.mandran@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eddymandran/)
+- 🐙 [GitHub](https://github.com/eddymandran)
+- 📧 [dev.eddy.mandran@gmail.com](mailto:dev.eddy.mandran@gmail.com)
 
 ---
 ---
@@ -112,34 +120,42 @@ cybersecurity-portfolio/
 │
 ├── reports/                     ← Rapports de pentest simulés
 │
-└── certifications/              ← Badges & certifications
+└── certificates/                ← Certificats de complétion
 ```
 
 ---
 
 ### 📝 Writeups
 
-| Plateforme | Room / Challenge | Difficulté | Statut |
-|---|---|---|---|
-| TryHackMe | *Bientôt disponible...* | — | 🔄 En cours |
+| Plateforme | Room / Challenge | Difficulté | Catégorie | Statut |
+|---|---|---|---|---|
+| TryHackMe | [The Greenholt Phish](./writeups/tryhackme/the-greenholt-phish.md) | 🟢 Easy | Phishing / Analyse Email / SOC | ✅ Complété |
 
 ---
 
-### 📜 Certifications & Badges
+### 📜 Certificats
 
-| Certification | Plateforme | Statut |
+| Certificat | Organisme | Lien |
 |---|---|---|
-| *Bientôt disponible...* | — | 🔄 En cours |
+| Security Engineer *(Learning Path)* | TryHackMe | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DBUT9JSL7U.pdf) |
+| Cyber Security 101 *(Learning Path)* | TryHackMe | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GIWBMPMAUW.pdf) |
+| Pre Security *(Learning Path)* | TryHackMe | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZVNIO4VQMS.pdf) |
+| Advent of Cyber 2025 *(Event)* | TryHackMe | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HPA4FS3AKH.pdf) |
+| Google Cybersecurity Professional Certificate V2 | Google / Coursera | [🔗 Credly](https://www.credly.com/badges/f7704b63-6292-449a-a4e8-c5cd302c03cb/public_url) |
+| Introduction to Cybersecurity | Cisco / Netacad | [🔗 Credly](https://www.credly.com/badges/2176fc38-d134-48f5-90cc-3b3cd441d5c9/public_url) |
+| Networking Basics | Cisco / Netacad | [🔗 Credly](https://www.credly.com/badges/20a20ac9-ce04-468e-9d24-8063e097568b/public_url) |
+
+> Voir le détail complet dans le dossier [certificates/](./certificates/).
 
 ---
 
 ### 📫 Contact
 
-- [LinkedIn](https://www.linkedin.com/in/eddymandran/)
-- [GitHub](https://github.com/eddymandran)
-- [dev.eddy.mandran@gmail.com](mailto:dev.eddy.mandran@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/eddymandran/)
+- 🐙 [GitHub](https://github.com/eddymandran)
+- 📧 [dev.eddy.mandran@gmail.com](mailto:dev.eddy.mandran@gmail.com)
 
 ---
 
-* This portfolio is actively updated as I progress through my cybersecurity learning journey.*
-* Ce portfolio est mis à jour activement au fur et à mesure de ma progression.*
+*🌱 This portfolio is actively updated as I progress through my cybersecurity learning journey.*
+*🌱 Ce portfolio est mis à jour activement au fur et à mesure de ma progression.*
