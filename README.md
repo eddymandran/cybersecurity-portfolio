@@ -53,6 +53,7 @@ cybersecurity-portfolio/
 | Platform | Room / Challenge | Difficulty | Category | Status |
 |---|---|---|---|---|
 | TryHackMe | [The Greenholt Phish](./writeups/tryhackme/the-greenholt-phish.md) | 🟢 Easy | Phishing / Email Analysis / SOC | ✅ Completed |
+| TryHackMe | Snapped Phish-ing Line | 🟢 Easy | Phishing / CTI / SOC | ✅ Completed |
 
 ---
 
