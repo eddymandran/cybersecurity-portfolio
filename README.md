@@ -53,7 +53,8 @@ cybersecurity-portfolio/
 | Platform | Room / Challenge | Difficulty | Category | Status |
 |---|---|---|---|---|
 | TryHackMe | [The Greenholt Phish](./writeups/tryhackme/the-greenholt-phish.md) | 🟢 Easy | Phishing / Email Analysis / SOC | ✅ Completed |
-| TryHackMe | Snapped Phish-ing Line | 🟢 Easy | Phishing / CTI / SOC | ✅ Completed |
+| TryHackMe | [Snapped Phish-ing Line](./writeups/tryhackme/Snapped_Phish-ing_Line.md) | 🟢 Easy | Phishing / CTI / SOC | ✅ Completed |
+| TryHackMe | [TakeOver](./writeups/tryhackme/TakeOver.md) | 🟢 Easy | Recon / Subdomain Enumeration / DNS | ✅ Completed |
 
 ---
 
@@ -131,6 +132,8 @@ cybersecurity-portfolio/
 | Plateforme | Room / Challenge | Difficulté | Catégorie | Statut |
 |---|---|---|---|---|
 | TryHackMe | [The Greenholt Phish](./writeups/tryhackme/the-greenholt-phish.md) | 🟢 Easy | Phishing / Analyse Email / SOC | ✅ Complété |
+| TryHackMe | [Snapped Phish-ing Line](./writeups/tryhackme/Snapped_Phish-ing_Line.md) | 🟢 Easy | Phishing / CTI / SOC | ✅ Complété |
+| TryHackMe | [TakeOver](./writeups/tryhackme/TakeOver.md) | 🟢 Easy | Recon / Énumération de sous-domaines / DNS | ✅ Complété |
 
 ---
 
