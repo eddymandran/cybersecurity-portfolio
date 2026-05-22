@@ -5,6 +5,14 @@
 
 ---
 
+## 🟥 TryHackMe — Professional Certifications
+
+| Certification | Date | Score | Valide jusqu'au / Valid until | Lien / Link |
+|---|---|---|---|---|
+| Pre Security (SEC0) | 03/05/2026 | 570 | 03/05/2029 | [🔗 Certificat](https://tryhackme.com/certification/certificate/64d51e32-0493-4b66-a967-6eaf45f3df4a) |
+
+---
+
 ## 🟥 TryHackMe — Learning Path Completions
 
 | Learning Path | Date | Durée / Duration | Lien / Link |
@@ -44,7 +52,7 @@
 
 | Path | Plateforme | Statut / Status |
 |---|---|---|
-| SOC Level 1 | [TryHackMe](https://tryhackme.com/p/eddymandran) | 🔄 En cours / In progress |
+| AI Security | [TryHackMe](https://tryhackme.com/p/eddymandran) | 🔄 En cours / In progress |
 
 ---
 
