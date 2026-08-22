@@ -8,24 +8,24 @@
 
 ### About This Repository
 
-This repository is my personal cybersecurity portfolio. It documents my learning journey, hands-on labs, scripts, and write-ups as I work toward becoming a Cybersecurity Analyst.
+This repository is my personal cybersecurity portfolio. It documents my learning journey, hands-on labs, scripts, and write-ups as I build toward a DevSecOps role, combining my software development background with growing security skills.
 
-I am currently exploring multiple paths within cybersecurity:
+To build a well-rounded foundation, I've explored several areas within cybersecurity:
 
 - 🔵 **SOC Analysis** — log analysis, threat detection, incident response
 - 🔴 **Penetration Testing** — offensive security, vulnerability exploitation
-- 🟣 **Cybersecurity Analysis** — risk assessment, reporting, defense strategies
+- 🟢 **Application Security** — secure coding practices, OWASP, vulnerability remediation
 
 ---
 
 ### 🧰 Tools & Platforms
 
-| Category           | Tools                                      |
-| ------------------ | ------------------------------------------ |
-| Learning Platforms | [TryHackMe](https://tryhackme.com) — currently enrolled: *AI Security* path |
-| Web App Testing    | [Burp Suite](https://portswigger.net/burp) |
-| OS                 | Kali Linux                                 |
-| Scripting          | Python, Bash                               |
+| Category           | Tools                                                                   |
+| ------------------ | ------------------------------------------------------------------------ |
+| Learning Platforms | [TryHackMe](https://tryhackme.com) — currently enrolled: *DevSecOps* path |
+| Web App Testing    | [Burp Suite](https://portswigger.net/burp)                               |
+| OS                 | Kali Linux                                                               |
+| Scripting          | Python, Bash                                                             |
 
 ---
 
@@ -54,32 +54,33 @@ cybersecurity-portfolio/
 
 #### TryHackMe
 
-| Platform  | Room / Challenge | Difficulty | Category | Status |
-| --------- | ---------------- | ---------- | -------- | ------ |
-| TryHackMe | [The Greenholt Phish](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/the-greenholt-phish.md) | 🟢 Easy | Phishing / Email Analysis / SOC | ✅ Completed |
-| TryHackMe | [Snapped Phish-ing Line](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/Snapped_Phish-ing_Line.md) | 🟢 Easy | Phishing / CTI / SOC | ✅ Completed |
-| TryHackMe | [TakeOver](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/TakeOver.md) | 🟢 Easy | Recon / Subdomain Enumeration / DNS | ✅ Completed |
+| Platform  | Room / Challenge                                                                                                                        | Difficulty | Category                            | Status      |
+| --------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ------------------------------------ | ----------- |
+| TryHackMe | [The Greenholt Phish](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/the-greenholt-phish.md)       | 🟢 Easy     | Phishing / Email Analysis / SOC       | ✅ Completed |
+| TryHackMe | [Snapped Phish-ing Line](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/Snapped_Phish-ing_Line.md) | 🟢 Easy     | Phishing / CTI / SOC                  | ✅ Completed |
+| TryHackMe | [TakeOver](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/TakeOver.md)                             | 🟢 Easy     | Recon / Subdomain Enumeration / DNS   | ✅ Completed |
 
 #### Real-World Cases
 
-| Source | Case | Category | Status |
-| ------ | ---- | -------- | ------ |
-| Real incident | [Sextortion Email Campaign Analysis](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/real-cases/sextortion-email-analysis.md) | Social Engineering / Email Forensics / Threat Intelligence | ✅ Completed |
+| Source        | Case                                                                                                                                                    | Category                                                    | Status      |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------- |
+| Real incident | [Sextortion Email Campaign Analysis](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/real-cases/sextortion-email-analysis.md) | Social Engineering / Email Forensics / Threat Intelligence  | ✅ Completed |
 
 ---
 
 ### 📜 Certificates
 
-| Certificate | Organization | Link |
-| ----------- | ------------ | ---- |
-| Pre Security SEC0 *(Professional Certification)* | TryHackMe | [🔗 Certificate](https://tryhackme.com/certification/certificate/64d51e32-0493-4b66-a967-6eaf45f3df4a) |
-| Security Engineer *(Learning Path)* | TryHackMe | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DBUT9JSL7U.pdf) |
-| Cyber Security 101 *(Learning Path)* | TryHackMe | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GIWBMPMAUW.pdf) |
-| Pre Security *(Learning Path)* | TryHackMe | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZVNIO4VQMS.pdf) |
-| Advent of Cyber 2025 *(Event)* | TryHackMe | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HPA4FS3AKH.pdf) |
-| Google Cybersecurity Professional Certificate V2 | Google / Coursera | [🔗 Credly](https://www.credly.com/badges/f7704b63-6292-449a-a4e8-c5cd302c03cb/public_url) |
-| Introduction to Cybersecurity | Cisco / Netacad | [🔗 Credly](https://www.credly.com/badges/2176fc38-d134-48f5-90cc-3b3cd441d5c9/public_url) |
-| Networking Basics | Cisco / Netacad | [🔗 Credly](https://www.credly.com/badges/20a20ac9-ce04-468e-9d24-8063e097568b/public_url) |
+| Certificate                                      | Organization      | Link                                                                                                  |
+| ------------------------------------------------- | ------------------- | -------------------------------------------------------------------------------------------------------- |
+| Pre Security SEC0 *(Professional Certification)*  | TryHackMe         | [🔗 Certificate](https://assets.tryhackme.com/certification-certificate/69f7425925edd0877d6b3fd6.pdf) |
+| Cyber Security 101 SEC1 *(Professional Certification)* | TryHackMe    | [🔗 Certificate](https://assets.tryhackme.com/certification-certificate/6a56280b1122cf6d37608f09.pdf) |
+| Security Engineer *(Learning Path)*               | TryHackMe         | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DBUT9JSL7U.pdf)         |
+| Cyber Security 101 *(Learning Path)*              | TryHackMe         | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GIWBMPMAUW.pdf)         |
+| Pre Security *(Learning Path)*                    | TryHackMe         | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZVNIO4VQMS.pdf)         |
+| Advent of Cyber 2025 *(Event)*                    | TryHackMe         | [🔗 Certificate](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HPA4FS3AKH.pdf)         |
+| Google Cybersecurity Professional Certificate V2  | Google / Coursera | [🔗 Credly](https://www.credly.com/badges/f7704b63-6292-449a-a4e8-c5cd302c03cb/public_url)             |
+| Introduction to Cybersecurity                     | Cisco / Netacad   | [🔗 Credly](https://www.credly.com/badges/2176fc38-d134-48f5-90cc-3b3cd441d5c9/public_url)             |
+| Networking Basics                                 | Cisco / Netacad   | [🔗 Credly](https://www.credly.com/badges/20a20ac9-ce04-468e-9d24-8063e097568b/public_url)             |
 
 > See full details in the [certificates/](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/certificates) folder.
 
@@ -89,7 +90,7 @@ cybersecurity-portfolio/
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eddymandran/)
 - 🐙 [GitHub](https://github.com/eddymandran)
-- 📧 dev.eddy.mandran@gmail.com
+- 📧 dev.eddy.mdn@proton.me
 
 ---
 
@@ -99,24 +100,24 @@ cybersecurity-portfolio/
 
 ### À propos de ce dépôt
 
-Ce dépôt est mon portfolio personnel en cybersécurité. Il documente mon parcours d'apprentissage, mes labs pratiques, mes scripts et mes writeups au fil de ma progression vers le métier d'Analyste en Cybersécurité.
+Ce dépôt est mon portfolio personnel en cybersécurité. Il documente mon parcours d'apprentissage, mes labs pratiques, mes scripts et mes writeups, dans une trajectoire vers un poste DevSecOps qui combine mon expérience de développeur et ma montée en compétences sécurité.
 
-J'explore actuellement plusieurs voies au sein de la cybersécurité :
+Pour construire une base solide, j'ai exploré plusieurs domaines de la cybersécurité :
 
 - 🔵 **Analyste SOC** — analyse de logs, détection de menaces, réponse à incident
 - 🔴 **Pentesteur** — sécurité offensive, exploitation de vulnérabilités
-- 🟣 **Analyste Cybersécurité** — évaluation des risques, reporting, stratégies défensives
+- 🟢 **Sécurité applicative** — bonnes pratiques de développement sécurisé, OWASP, remédiation de vulnérabilités
 
 ---
 
 ### 🧰 Outils & Plateformes
 
-| Catégorie | Outils |
-| --------- | ------ |
-| Plateformes d'apprentissage | [TryHackMe](https://tryhackme.com) — parcours en cours : *AI Security* |
-| Tests d'applications web | [Burp Suite](https://portswigger.net/burp) |
-| Système d'exploitation | Kali Linux |
-| Scripting | Python, Bash |
+| Catégorie                   | Outils                                                              |
+| ----------------------------- | ---------------------------------------------------------------------- |
+| Plateformes d'apprentissage | [TryHackMe](https://tryhackme.com) — parcours en cours : *DevSecOps* |
+| Tests d'applications web    | [Burp Suite](https://portswigger.net/burp)                             |
+| Système d'exploitation      | Kali Linux                                                             |
+| Scripting                   | Python, Bash                                                           |
 
 ---
 
@@ -145,32 +146,33 @@ cybersecurity-portfolio/
 
 #### TryHackMe
 
-| Plateforme | Room / Challenge | Difficulté | Catégorie | Statut |
-| ---------- | ---------------- | ---------- | --------- | ------ |
-| TryHackMe | [The Greenholt Phish](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/the-greenholt-phish.md) | 🟢 Easy | Phishing / Analyse Email / SOC | ✅ Complété |
-| TryHackMe | [Snapped Phish-ing Line](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/Snapped_Phish-ing_Line.md) | 🟢 Easy | Phishing / CTI / SOC | ✅ Complété |
-| TryHackMe | [TakeOver](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/TakeOver.md) | 🟢 Easy | Recon / Énumération de sous-domaines / DNS | ✅ Complété |
+| Plateforme | Room / Challenge                                                                                                                        | Difficulté | Catégorie                                    | Statut     |
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------- | ---------------------------------------------- | ---------- |
+| TryHackMe  | [The Greenholt Phish](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/the-greenholt-phish.md)       | 🟢 Easy     | Phishing / Analyse Email / SOC                 | ✅ Complété |
+| TryHackMe  | [Snapped Phish-ing Line](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/Snapped_Phish-ing_Line.md) | 🟢 Easy     | Phishing / CTI / SOC                           | ✅ Complété |
+| TryHackMe  | [TakeOver](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/tryhackme/TakeOver.md)                             | 🟢 Easy     | Recon / Énumération de sous-domaines / DNS     | ✅ Complété |
 
 #### Cas Réels
 
-| Source | Cas | Catégorie | Statut |
-| ------ | --- | --------- | ------ |
+| Source        | Cas                                                                                                                                                                 | Catégorie                                                    | Statut     |
+| -------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------- | ---------- |
 | Incident réel | [Analyse d'une Campagne de Sextorsion par Email](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/writeups/real-cases/sextortion-email-analysis.md) | Social Engineering / Email Forensics / Threat Intelligence | ✅ Complété |
 
 ---
 
 ### 📜 Certificats
 
-| Certificat | Organisme | Lien |
-| ---------- | --------- | ---- |
-| Pre Security SEC0 *(Certification Professionnelle)* | TryHackMe | [🔗 Certificat](https://tryhackme.com/certification/certificate/64d51e32-0493-4b66-a967-6eaf45f3df4a) |
-| Security Engineer *(Learning Path)* | TryHackMe | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DBUT9JSL7U.pdf) |
-| Cyber Security 101 *(Learning Path)* | TryHackMe | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GIWBMPMAUW.pdf) |
-| Pre Security *(Learning Path)* | TryHackMe | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZVNIO4VQMS.pdf) |
-| Advent of Cyber 2025 *(Event)* | TryHackMe | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HPA4FS3AKH.pdf) |
-| Google Cybersecurity Professional Certificate V2 | Google / Coursera | [🔗 Credly](https://www.credly.com/badges/f7704b63-6292-449a-a4e8-c5cd302c03cb/public_url) |
-| Introduction to Cybersecurity | Cisco / Netacad | [🔗 Credly](https://www.credly.com/badges/2176fc38-d134-48f5-90cc-3b3cd441d5c9/public_url) |
-| Networking Basics | Cisco / Netacad | [🔗 Credly](https://www.credly.com/badges/20a20ac9-ce04-468e-9d24-8063e097568b/public_url) |
+| Certificat                                            | Organisme         | Lien                                                                                                  |
+| -------------------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------- |
+| Pre Security SEC0 *(Certification Professionnelle)*      | TryHackMe         | [🔗 Certificat](https://assets.tryhackme.com/certification-certificate/69f7425925edd0877d6b3fd6.pdf) |
+| Cyber Security 101 SEC1 *(Certification Professionnelle)* | TryHackMe    | [🔗 Certificat](https://assets.tryhackme.com/certification-certificate/6a56280b1122cf6d37608f09.pdf) |
+| Security Engineer *(Learning Path)*                       | TryHackMe         | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DBUT9JSL7U.pdf)         |
+| Cyber Security 101 *(Learning Path)*                      | TryHackMe         | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-GIWBMPMAUW.pdf)         |
+| Pre Security *(Learning Path)*                            | TryHackMe         | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-ZVNIO4VQMS.pdf)         |
+| Advent of Cyber 2025 *(Event)*                            | TryHackMe         | [🔗 Certificat](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-HPA4FS3AKH.pdf)         |
+| Google Cybersecurity Professional Certificate V2          | Google / Coursera | [🔗 Credly](https://www.credly.com/badges/f7704b63-6292-449a-a4e8-c5cd302c03cb/public_url)             |
+| Introduction to Cybersecurity                             | Cisco / Netacad   | [🔗 Credly](https://www.credly.com/badges/2176fc38-d134-48f5-90cc-3b3cd441d5c9/public_url)             |
+| Networking Basics                                          | Cisco / Netacad   | [🔗 Credly](https://www.credly.com/badges/20a20ac9-ce04-468e-9d24-8063e097568b/public_url)             |
 
 > Voir le détail complet dans le dossier [certificates/](https://github.com/eddymandran/cybersecurity-portfolio/blob/main/certificates).
 
@@ -180,9 +182,10 @@ cybersecurity-portfolio/
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/eddymandran/)
 - 🐙 [GitHub](https://github.com/eddymandran)
-- 📧 dev.eddy.mandran@gmail.com
+- 📧 dev.eddy.mdn@proton.me
 
 ---
 
 *🌱 This portfolio is actively updated as I progress through my cybersecurity learning journey.*
+
 *🌱 Ce portfolio est mis à jour activement au fur et à mesure de ma progression.*
